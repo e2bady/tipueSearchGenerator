@@ -1,0 +1,1 @@
+"title" "meta[name=description]" "#content" ".tag" /Users/bady/Sites/appStrap2.5.1/theme/ /Users/bady/Sites/appStrap2.5.1/theme/tipuesearch/tipuesearch_content_new.js

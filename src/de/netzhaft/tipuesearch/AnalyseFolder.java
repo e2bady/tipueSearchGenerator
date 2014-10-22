@@ -1,4 +1,4 @@
-package de.netzhaft.tipquesearch;
+package de.netzhaft.tipuesearch;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package de.netzhaft.tipquesearch;
+package de.netzhaft.tipuesearch;
 
 public class Parameter {
 	private final String titleSelector;
